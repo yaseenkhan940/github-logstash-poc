@@ -1,2 +1,2 @@
-
+github to wazuhmanager 
 logstssh to github or wazuh manager
