@@ -1,7 +1,8 @@
 github to wazuhmanager 
 logstssh to github or wazuh manager
-logstash to wazuh
+logstash to wazuh 
 github webhook 
 shekar github to logstash to wazuh manager
 github to logstash to wazuh manager
 logstash to wazuh
+asfsesgrddrr
