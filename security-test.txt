@@ -1,0 +1,10 @@
+# Security Monitoring Test File
+This file is created to test GitHub webhook integration with Wazuh SIEM.
+This repository is monitored for all security events in real time.
+Any changes to this file will generate logs in Wazuh manager.
+Push events are forwarded via Logstash to Wazuh for analysis.
+This is part of GitHub POC integration with Wazuh SIEM platform.
+All events are tagged with source_platform as github_poc.
+Security team can monitor all repository activities in Wazuh dashboard.
+This file tests file creation event in GitHub webhook integration.
+Event logs are visible in Wazuh Discover with full event details.
