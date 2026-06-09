@@ -12,3 +12,4 @@ the genarted one can be visble in the wazuh manager properly
 dfggggrd
 sdfsdfdsf
 
+...
