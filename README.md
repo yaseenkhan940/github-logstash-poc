@@ -1,5 +1,5 @@
 # GitHub Wazuh Integration-poc
-## Overview
+## Overview-
 changed
 This repository demonstrates GitHub webhook integration with Wazuh SIEM.
 All repository events are monitored and logged in real time.
