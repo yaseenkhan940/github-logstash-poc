@@ -1,4 +1,5 @@
-# GitHub Wazuh Integration-poc
+# GitHub Wazuh Integration-poc-1
+
 ## Overview-
 changed
 This repository demonstrates GitHub webhook integration with Wazuh SIEM.
