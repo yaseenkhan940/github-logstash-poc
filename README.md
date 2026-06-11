@@ -1,4 +1,4 @@
-# GitHub Wazuh Integration-poc-20
+# GitHub Wazuh Integration-poc-22
 
 ## Overview-
 changed
